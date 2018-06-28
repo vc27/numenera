@@ -1,4 +1,4 @@
-- Name:
+- Name: Moto Hisato
 - Descriptor: Clever
 - Type: Glint
 - Focus: Works the back alleys

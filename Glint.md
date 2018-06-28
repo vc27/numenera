@@ -8,7 +8,7 @@
 - Effort: 1
 - Might: 9 = 8 + 1
 - Speed: 10 = 9 + 1
-- Intellect: 15 = 11 + 4
+- Intellect: 15 = 11 + 4, Edge 1
 
 _*Needed* Add 6 - spread between these three._
 

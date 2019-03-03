@@ -34,7 +34,7 @@ A strong Glaive who moves like a cat.
 - You can use any weapon without penalty.
   - +5 Polearm (medium +4)
   - +7 Maul (heavy +6)
-  - +7 Quarterstaff (heavy +6)
+  - +7 Quarterstaff (heavy +6) [want to have a customized version to make it heavy]
 - +2 medium armor (Trained in Armor - Reduce the Speed Effort cost for wearing armor by 1)
 - +5 Unarmed attack (+4) (such as a punch or kick), it counts as a medium weapon.
 - Impressive Display (2 Might points)
